@@ -1,0 +1,20 @@
+[
+  {
+    "id": "retiro",
+    "nombre": "Retiro en local",
+    "costo": 0,
+    "requiereDireccion": false
+  },
+  {
+    "id": "estandar",
+    "nombre": "Envío estándar (3 a 5 días)",
+    "costo": 3500,
+    "requiereDireccion": true
+  },
+  {
+    "id": "express",
+    "nombre": "Envío express (24 hs)",
+    "costo": 6500,
+    "requiereDireccion": true
+  }
+]

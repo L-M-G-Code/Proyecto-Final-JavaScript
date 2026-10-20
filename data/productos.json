@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nombre": "Etiopía Yirgacheffe",
+    "categoria": "Café en grano",
+    "precio": 14500,
+    "stock": 12,
+    "descripcion": "Notas florales y cítricas. Tueste claro, 250 g.",
+    "imagen": "assets/img/grano.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Colombia Huila",
+    "categoria": "Café en grano",
+    "precio": 12800,
+    "stock": 15,
+    "descripcion": "Dulce, con notas a caramelo y frutos rojos. Tueste medio, 250 g.",
+    "imagen": "assets/img/grano.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Brasil Cerrado",
+    "categoria": "Café en grano",
+    "precio": 11200,
+    "stock": 20,
+    "descripcion": "Cuerpo cremoso, chocolate y nuez. Tueste medio-oscuro, 250 g.",
+    "imagen": "assets/img/grano.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Blend de la Casa (molido)",
+    "categoria": "Café molido",
+    "precio": 9800,
+    "stock": 25,
+    "descripcion": "Molienda media para cafetera de filtro. 250 g.",
+    "imagen": "assets/img/molido.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Espresso Intenso (molido)",
+    "categoria": "Café molido",
+    "precio": 10400,
+    "stock": 18,
+    "descripcion": "Molienda fina para espresso, intenso y persistente. 250 g.",
+    "imagen": "assets/img/molido.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Descafeinado Natural (molido)",
+    "categoria": "Café molido",
+    "precio": 11900,
+    "stock": 3,
+    "descripcion": "Proceso al agua, sin perder aroma. 250 g.",
+    "imagen": "assets/img/molido.svg"
+  },
+  {
+    "id": 7,
+    "nombre": "Prensa Francesa 600 ml",
+    "categoria": "Accesorios",
+    "precio": 24900,
+    "stock": 8,
+    "descripcion": "Vidrio borosilicato y filtro de acero inoxidable.",
+    "imagen": "assets/img/accesorio.svg"
+  },
+  {
+    "id": 8,
+    "nombre": "Molinillo Manual",
+    "categoria": "Accesorios",
+    "precio": 38500,
+    "stock": 6,
+    "descripcion": "Muelas cerámicas con ajuste de molienda.",
+    "imagen": "assets/img/accesorio.svg"
+  },
+  {
+    "id": 9,
+    "nombre": "Taza de Cerámica 300 ml",
+    "categoria": "Accesorios",
+    "precio": 7600,
+    "stock": 30,
+    "descripcion": "Esmaltada a mano, apta para lavavajillas.",
+    "imagen": "assets/img/accesorio.svg"
+  }
+]
